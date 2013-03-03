@@ -1,3 +1,11 @@
 /*
 
 */
+
+html {
+  background-image: url("../images/bg.jpg");
+}
+body {
+  width: 996px;
+  margin: auto;
+}
